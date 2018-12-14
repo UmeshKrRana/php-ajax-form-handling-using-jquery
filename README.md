@@ -1,2 +1,3 @@
 # php-ajax-form-handling-using-jquery
-Php form handling using AJAX and jQuery without refreshing the form.
+
+Inserting the html form data into the MySQL database using PHP AJAX and JQuery without refreshing the form.
